@@ -7,9 +7,7 @@ coverY: 0
 
 ### National Anthem
 
-{% embed url="https://www.youtube.com/watch?v=Tk5myhxU0Lw" %}
-The New Thalizar National Anthem
-{% endembed %}
+{% embed url="https://www.youtube.com/watch?v=F4e90l2w1-Q" %}
 
 ### Geography
 
