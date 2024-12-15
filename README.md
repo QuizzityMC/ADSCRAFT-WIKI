@@ -1,15 +1,15 @@
 ---
-description: >-
-  (If you want to have your wiki page listed here, contact QuizzityMC on
-  https://chat.quizzity.tech/)
 icon: hand-wave
+description: >-
+  (If you want to have your wiki page listed here, contact QuizzityMC on Canary
+  Chat)
 cover: .gitbook/assets/2024-09-02_20.28.06 (1).png
 coverY: 0
 ---
 
 # Welcome to the ADSCRAFT Wiki!
 
-The ADSCRAFT Minecraft server is a civilisations server with about 140 people on our original chat platform, guilded. However, we now have our own platform, Canary Chat, available at [https://chat.quizzity.tech/](https://chat.quizzity.tech/). There are numerous countries in ADSCRAFT Civilisations, which can be seen at [countries](countries/ "mention"). There have been eleven seasons to date, with a rich history of almost two years worth of dramatic and exciting stories. Many people have become so invested in the world that they have created entire websites and real life organisations as a result.
+The ADSCRAFT Minecraft server is a civilisations server with about 140 people on our original chat platform, guilded. However, we now have our own platform, Canary Chat, available at [https://canarychat.me.](https://canarychat.me) There are numerous countries in ADSCRAFT Civilisations, which can be seen at [countries](countries/ "mention"). There have been eleven seasons to date, with a rich history of almost two years worth of dramatic and exciting stories. Many people have become so invested in the world that they have created entire websites and real life organisations as a result.
 
 
 
@@ -35,9 +35,9 @@ The ADSCRAFT Minecraft server is a civilisations server with about 140 people on
 
 ### [How to Join](how-to-join.md)
 
-IP: mc.adscraft.org
+IP: mc.canarycraft.org
 
-Link: [https://chat.quizzity.tech/i/adscraft/](https://chat.quizzity.tech/i/adscraft/)
+[Link: https://app.canarychat.me/i/adscraft/](https://app.canarychat.me/i/adscraft/)
 
 Check [how-to-join.md](how-to-join.md "mention")for more info
 
@@ -60,12 +60,6 @@ Check [how-to-join.md](how-to-join.md "mention")for more info
 [Season 10 / X](the-seasons/season-10-season-x.md)
 
 [Season 11](the-seasons/season-11.md)
-
-{% embed url="https://chat.quizzity.tech" %}
-
-{% embed url="https://adscraft.org" %}
-Website
-{% endembed %}
 
 {% embed url="https://www.youtube.com/watch?v=jiseIQXW8VU" %}
 
