@@ -18,3 +18,4 @@ The same day as the land was given to President River, she founded the Kingdom o
 
 On December 12 of 2024, President River officially changed the name of the nation to the Empire of Jiyustan and announced plans to expand the nation.
 
+However, on December 15'th of 2024, President River (otherwise known as RageAndGrace), having completed construction of a major underground city area, decided to absent themselves permanently from ADSCRAFT. This led to the subsequent abandonement of Jiyustan.
