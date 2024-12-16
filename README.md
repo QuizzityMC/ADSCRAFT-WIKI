@@ -9,7 +9,7 @@ coverY: 0
 
 # Welcome to the ADSCRAFT Wiki!
 
-The ADSCRAFT Minecraft server is a civilisations server with about 140 people on our original chat platform, guilded. However, we now have our own platform, Canary Chat, available at [https://canarychat.me.](https://canarychat.me) There are numerous countries in ADSCRAFT Civilisations, which can be seen at [countries](countries/ "mention"). There have been eleven seasons to date, with a rich history of almost two years worth of dramatic and exciting stories. Many people have become so invested in the world that they have created entire websites and real life organisations as a result.
+The ADSCRAFT Minecraft server is a civilisations server with about 160 people on our original chat platform, guilded. However, we now have our own platform, Canary Chat, available at [https://canarychat.me.](https://canarychat.me) There are numerous countries in ADSCRAFT Civilisations, which can be seen at [countries](countries/ "mention"). There have been eleven seasons to date, with a rich history of almost two years worth of dramatic and exciting stories. Many people have become so invested in the world that they have created entire websites and real life organisations as a result.
 
 
 

@@ -16,7 +16,7 @@ coverY: 0
 * [The Capitalist State of Luxuria](the-capitalist-state-of-luxuria.md)
 * [The Nordian Shogunate](the-nordian-shogunate.md)
 * [The Republic of Nova Glacier bay](the-republic-of-nova-glacier-bay.md)
-* [The Empire of Jiyustan](the-empire-of-jiyustan.md)
+* [~~The Empire of Jiyustan~~](the-empire-of-jiyustan.md)
 * Vulperium (illegal)
 * Freedom Island (not recognised by anyone)
 
