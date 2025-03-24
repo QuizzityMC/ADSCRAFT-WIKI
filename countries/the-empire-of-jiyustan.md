@@ -19,3 +19,5 @@ The same day as the land was given to President River, she founded the Kingdom o
 On December 12 of 2024, President River officially changed the name of the nation to the Empire of Jiyustan and announced plans to expand the nation.
 
 However, on December 15'th of 2024, President River (otherwise known as RageAndGrace), having completed construction of a major underground city area, decided to absent themselves permanently from ADSCRAFT. This led to the subsequent abandonement of Jiyustan.
+
+During March 2025, however, the territory was re-vitalised - with a major war occuring between Thalizar and Nordia. This war is ongoing, and trenches absolutely litter the once peaceful territory. Thalizar has taken over the cathedral as its main base, and is operating from there, although, because of slow advances from the opposing side, there are rumors it will shortly be self-destructed in spectacular fashion. The border to the main part of Thalizar is being extremely well fortified, as the capital city of Civitas lies not too far away. 
