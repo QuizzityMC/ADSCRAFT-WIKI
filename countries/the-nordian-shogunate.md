@@ -23,7 +23,7 @@ It is located West of Thalizar on the foothills of Mount Thalizar.
 
 The kingdom was founded when an explorer, Henry Wauzivuff Ford, and his crew from an original Kingdom of Nordia in a different continent, Forria, as Henry calls it, explored the oceans and found the land on which our kingdoms exist. He was excited and wanted to return and inform the king of the original Nordian Kingdom, King Edward "Finneus" Nord I, but could not find his way back. Henry and his crew eventually settled in the new land which they named after their original home, Nordia.\
 \
-The Nordian Shogunate was formally established as a province in January 2024\*.&#x20;
+The Nordian Shogunate was formally established as a province in January 2024\*.&#x20; On March 24, 2025, after months of Inactivity, the nordian Shogunate sprung up and Launched a surprise attack on Luxuria, conquering the territory from Thalizar in just few days (They now only control the central station). There is now a Fierce battle ongoing in Jiyustan, as the two clash, with Nordia hoping to conquer the Thalizanian mainland.
 
 ### Culture
 
