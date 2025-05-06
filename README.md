@@ -1,15 +1,17 @@
 ---
+description: Rest in Peace, ADSCRAFT / Canary Craft!
 icon: hand-wave
-description: >-
-  (If you want to have your wiki page listed here, contact QuizzityMC on Canary
-  Chat)
 cover: .gitbook/assets/2024-09-02_20.28.06 (1).png
 coverY: 0
 ---
 
 # Welcome to the ADSCRAFT Wiki!
 
-The ADSCRAFT Minecraft server is a civilisations server with about 160 people on our original chat platform, guilded. However, we now have our own platform, Canary Chat, available at [https://canarychat.me.](https://canarychat.me) There are numerous countries in ADSCRAFT Civilisations, which can be seen at [countries](countries/ "mention"). There have been eleven seasons to date, with a rich history of almost two years worth of dramatic and exciting stories. Many people have become so invested in the world that they have created entire websites and real life organisations as a result.
+The ADSCRAFT Minecraft server was a civilisations server with about 160 people on our original chat platform, guilded.&#x20;
+
+<mark style="background-color:red;">It was founded in October 2022 and ran until March 2025.</mark> It is no longer available to the public. It experienced a rapid decline in popularity throughout the beginning of 2025, owing perhaps at least in part due to the disinterest of key figures such as QuizzityMC, Tramountanas and Alastor\_MC (RainyLyric14977).
+
+However, we now have our own platform, Canary Chat, available at [https://canarychat.me.](https://canarychat.me) There are numerous countries in ADSCRAFT Civilisations, which can be seen at [countries](countries/ "mention"). There have been eleven seasons to date, with a rich history of almost two years worth of dramatic and exciting stories. Many people have become so invested in the world that they have created entire websites and real life organisations as a result.
 
 
 

@@ -1,3 +1,7 @@
+---
+description: 'DISCLAIMER: THE SERVER HAS ENDED!'
+---
+
 # How to join?
 
 Join the server! Join our chat platform here: [https://chat.quizzity.tech](https://chat.quizzity.tech) and join the ADSCRAFT server from discover. OR, when this isnt working, join our discord: [https://discord.gg/UfwhQc6cPG](https://discord.gg/UfwhQc6cPG)
