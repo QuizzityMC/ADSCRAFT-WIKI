@@ -6,7 +6,7 @@ coverY: 0
 
 # 👑 Countries
 
-IN ORDER OF CREATION
+IN ORDER OF CREATION, as of the continuous world of Szns 9-11.
 
 * [The Thalizar Empire](the-thalizar-empire.md)
 * The Red Skull Sultanate
