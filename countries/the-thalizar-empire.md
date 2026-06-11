@@ -11,7 +11,7 @@ coverY: 0
 
 ### Geography
 
-The Empire Is located just north of spawn, to the east of Luxuria, and south of Laxamentum, North of The Red Skull Sultanate, and West of the now disbanded USSA.
+The Empire Is located just north of spawn, to the east of Luxuria, and south of Laxamentum, North of The Red Skull Sultanate, and West of the now disbanded USSA. It is south of the Nordian Shogunate.
 
 The Empire is divided into many provinces, among them, the Bosque in the eastern tundra forest, the Nordian Shogunate in the west part of Thalizar Mountain, Rana County in the south, and "Central Thalizar (Thalizar city territory)". Within these provinces, are even more cities.
 
@@ -23,7 +23,7 @@ Rana County: Civitas
 
 ### History
 
-The Thalizar Empire is what remains of Stormton, the old empire from season 1 in December 2022 and January 2023
+The Thalizar Empire is what remains of Stormton, the old empire from season 1 in December 2022 and January 2023.
 
 According to an early video on the ADSCRAFTOLD youtube channel [(Click here to watch it)](https://www.youtube.com/watch?v=6AYoEcyRDBg)
 
@@ -35,10 +35,16 @@ The Thalizar Empire, Created by QuizzityMC, who was the old king of Stormton, AD
 
 [File:The Past, Present and future of the Thalizar Empire.pdf](https://adscraft.fandom.com/wiki/File:The_Past,_Present_and_future_of_the_Thalizar_Empire.pdf)
 
+The Thalizar Empire grew significantly during 2023 and 2024, mostly around Thalizar Harbour, forming "Thalizar City", which was the center of political activity and attention.&#x20;
+
+After the separation of [Luxuria](the-capitalist-state-of-luxuria.md) (Run by ErezDaBerez), a city to the north-east of Thalizar City, from the main empire tried to expand north with the help of Nordian shogun HenryWauzivuff. However, Nordia soon also demanded independence, which it achieved.
+
 ### Politics
 
-The Thalizar Empire is currently in a trade alliance with Luxuria, and is backing Nordia's rise. However, this trade alliance has been strained by multiple acts of defense and aggression from both sides. By March, a war was to be expected. It has a prime minister, RainyLyric14977 and an Emperor, QuizzityMC. It is a constitutional Monarchy with a parliament located in the city of Civitas. It was an ally of the USSA until it disbanded itself, and gave the land to the prime minister at the time, tgforce14 to start his own province, which has been named the Bosque. Later, after tgforce14 lost the next election on the 16'th of March 2024, with it being won by RainyLyric14977, with tgforce14 also abandoning the Bosque.
+(Outdated) The Thalizar Empire is currently in a trade alliance with Luxuria, and is backing Nordia's rise. However, this trade alliance has been strained by multiple acts of defense and aggression from both sides. By March, a war was to be expected. It has a prime minister, RainyLyric14977 and an Emperor, QuizzityMC. It is a constitutional Monarchy with a parliament located in the city of Civitas. It was an ally of the USSA until it disbanded itself, and gave the land to the prime minister at the time, tgforce14 to start his own province, which has been named the Bosque. Later, after tgforce14 lost the next election on the 16'th of March 2024, with it being won by RainyLyric14977, with tgforce14 also abandoning the Bosque. In early 2025, Tramountanas was elected prime minister (although there were severe doubts regarding the democratic nature of the election) and QuizzityMC suspended elections indefinitely, leaving Tramountanas (popularly known as "Trouty" as Prime Minister. This allowed him to institute significant building projects.
 
 Nordia has become allied with Thalizar, RainyLyric14977 has renamed himself Lucifer and has become a complete Devil who kills lots of people, and Nordia is rising as a new power far away in the snowy areas. Thalizar is still a forceful power who's Emperor, QuizzityMC, and Prime minister, Tramountanas, who are having an agenda of reform and prosperity.
 
-The Seat of government has now moved itself firmly to Civitas (which has numerous different areas for housing, commerce, entertainment and military activity. Thalizar City is all but abandoned.\
+The Seat of government has now moved itself firmly to Civitas (which has numerous different areas for housing, commerce, entertainment and military activity. Thalizar City is all but abandoned.<br>
+
+[https://quizzitymc.github.io/The-Thalizar-Empire/](https://quizzitymc.github.io/The-Thalizar-Empire/) - The Thalizar Empire has a website (formerly at https://thalizar.info/. NOW LARGELY DISFUNTIONAL)

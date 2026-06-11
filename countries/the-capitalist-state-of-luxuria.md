@@ -5,7 +5,7 @@ coverY: 0
 
 # The Capitalist State of Luxuria
 
-The Capitalist State of Luxuria Occupied area near both Laxamantum and the Thalizar Empiyou
+The Capitalist State of Luxuria Occupied area near both Laxamantum and the Thalizar Empire.
 
 It was led by Erezamar (erezdaberez) and it's capital city is Stormton
 

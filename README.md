@@ -39,7 +39,7 @@ However, we now have our own platform, Canary Chat, available at [https://canary
 
 IP: mc.canarycraft.org
 
-[Link: https://app.canarychat.me/i/adscraft/](https://app.canarychat.me/i/adscraft/)
+[~~Link: https://app.canarychat.me/i/adscraft/~~](https://app.canarychat.me/i/adscraft/)
 
 Check [how-to-join.md](how-to-join.md "mention")for more info
 
