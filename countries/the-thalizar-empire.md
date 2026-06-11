@@ -41,7 +41,13 @@ The Thalizar Empire, Created by QuizzityMC, who was the old king of Stormton, AD
 
 The Thalizar Empire grew significantly during 2023 and 2024, mostly around Thalizar Harbour, forming "Thalizar City", which was the center of political activity and attention.
 
-After the separation of [Luxuria](the-capitalist-state-of-luxuria.md) (Run by ErezDaBerez), a city-state based on the traditional Thalizanian town of Stormton, to the north-east of Thalizar City, from the main empire tried to expand north with the help of Nordian shogun HenryWauzivuff. However, Nordia soon also demanded independence, which it achieved. See [THIS](https://www.youtube.com/watch?v=F83s-eiDHeU\&t=203s) video for a significant discussion between the leaders of the two nations.
+After the separation of [Luxuria](the-capitalist-state-of-luxuria.md) (Run by ErezDaBerez), a city-state based on the traditional Thalizanian town of Stormton, to the north-east of Thalizar City, from the main empire tried to expand north with the help of Nordian shogun HenryWauzivuff.&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=6xq3J7Uj_z8" %}
+Although not discussed in the narration, this war and all events are actually the war for Luxurian independence.&#x20;
+{% endembed %}
+
+However, Nordia soon also demanded independence, which it achieved. See [THIS](https://www.youtube.com/watch?v=F83s-eiDHeU\&t=203s) video for a significant discussion between the leaders of the two nations.
 
 After the election of Tramountanas as Prime Minister (see below), RainyLyric14977 fled the empire and founded the "[Republic of Nova Glacier Bay](the-republic-of-nova-glacier-bay.md)", with the apparent aim of undermining the government of Thalizar.
 
@@ -65,7 +71,7 @@ Built by RainyLyric and .tgforce14 (Gray) as an early attempt to get sovereign l
 
 <figure><img src="../.gitbook/assets/screenshot_2024-08-07_01.31.35.png" alt="" width="375"><figcaption><p>Rainy and Gray were tried to building the wall.</p></figcaption></figure>
 
-(Below) The "Rise or Demise" video was based on a major war between Nova and an alliance of Thalizar and Nordia, in November 2024. HenryWauzivuff, Nordian shogun, betrayed the Alliance, leading to the destruction of a large part of Nordian heartland, the repositioning of Nordia away from the center of the server, and the faliure to resolve the conflict between Thalizar and Nova in any meaningfull way.
+(Below) The "Rise or Demise" video was based on a major war between Nova and an alliance of Thalizar and Nordia, in November 2024. HenryWauzivuff, Nordian shogun, betrayed the Alliance, leading to the destruction of a large part of Nordian heartland, the repositioning of Nordia away from the center of the server, and the faliure to resolve the conflict between Thalizar and Nova in any meaningful way.
 
 {% embed url="https://www.youtube.com/watch?t=282s&v=TNWkdV2_bv0" %}
 
