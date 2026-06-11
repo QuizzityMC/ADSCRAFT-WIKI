@@ -15,7 +15,7 @@ The Empire Is located just north of spawn, to the east of Luxuria, and south of 
 
 The Empire is divided into many provinces, among them, the Bosque in the eastern tundra forest, the Nordian Shogunate in the west part of Thalizar Mountain, Rana County in the south, and "Central Thalizar (Thalizar city territory)". Within these provinces, are even more cities.
 
-Rana County:&#x20;
+Rana County:
 
 'Central Thalizar': Thalizar City
 
@@ -35,7 +35,7 @@ The Thalizar Empire, Created by QuizzityMC, who was the old king of Stormton, AD
 
 [File:The Past, Present and future of the Thalizar Empire.pdf](https://adscraft.fandom.com/wiki/File:The_Past,_Present_and_future_of_the_Thalizar_Empire.pdf)
 
-The Thalizar Empire grew significantly during 2023 and 2024, mostly around Thalizar Harbour, forming "Thalizar City", which was the center of political activity and attention.&#x20;
+The Thalizar Empire grew significantly during 2023 and 2024, mostly around Thalizar Harbour, forming "Thalizar City", which was the center of political activity and attention.
 
 After the separation of [Luxuria](the-capitalist-state-of-luxuria.md) (Run by ErezDaBerez), a city-state based on the traditional Thalizanian town of Stormton, to the north-east of Thalizar City, from the main empire tried to expand north with the help of Nordian shogun HenryWauzivuff. However, Nordia soon also demanded independence, which it achieved.
 
@@ -52,3 +52,14 @@ Nordia has become allied with Thalizar, RainyLyric14977 has renamed himself Luci
 The Seat of government has now moved itself firmly to Civitas (which has numerous different areas for housing, commerce, entertainment and military activity. Thalizar City is all but abandoned.<br>
 
 [https://quizzitymc.github.io/The-Thalizar-Empire/](https://quizzitymc.github.io/The-Thalizar-Empire/) - The Thalizar Empire has a website (formerly at https://thalizar.info/. NOW LARGELY DISFUNTIONAL)
+
+### Notable Historical Events
+
+<figure><img src="../.gitbook/assets/screenshot_2024-08-07_01.09.14.png" alt=""><figcaption><p>7 July 2024 - Erection of the "Berlin Wall" in Thalizar City.</p></figcaption></figure>
+
+Built by RainyLyric and .tgforce14 (Gray) as an early attempt to get sovereign land for Nova. Very short lived and soon demolished, a small section of the wall remains for historical reasons.
+
+<figure><img src="../.gitbook/assets/screenshot_2024-08-07_01.31.35.png" alt="" width="375"><figcaption><p>Rainy and Gray were tried to building the wall.</p></figcaption></figure>
+
+
+
