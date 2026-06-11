@@ -15,11 +15,11 @@ The Empire Is located just north of spawn, to the east of Luxuria, and south of 
 
 The Empire is divided into many provinces, among them, the Bosque in the eastern tundra forest, the Nordian Shogunate in the west part of Thalizar Mountain, Rana County in the south, and "Central Thalizar (Thalizar city territory)". Within these provinces, are even more cities.
 
-The Nordian Shogunate: Bergentia
-
-Rana County: Civitas
+Rana County:&#x20;
 
 'Central Thalizar': Thalizar City
+
+Most housing in the nation is centered in Thalizar City, and Civitas (mainly its suburb Rextonville) . There is significant industry (manufacturing, paper mill, brewery) in the south bordering the river Thal.
 
 ### History
 
@@ -37,7 +37,7 @@ The Thalizar Empire, Created by QuizzityMC, who was the old king of Stormton, AD
 
 The Thalizar Empire grew significantly during 2023 and 2024, mostly around Thalizar Harbour, forming "Thalizar City", which was the center of political activity and attention.&#x20;
 
-After the separation of [Luxuria](the-capitalist-state-of-luxuria.md) (Run by ErezDaBerez), a city to the north-east of Thalizar City, from the main empire tried to expand north with the help of Nordian shogun HenryWauzivuff. However, Nordia soon also demanded independence, which it achieved.
+After the separation of [Luxuria](the-capitalist-state-of-luxuria.md) (Run by ErezDaBerez), a city-state based on the traditional Thalizanian town of Stormton, to the north-east of Thalizar City, from the main empire tried to expand north with the help of Nordian shogun HenryWauzivuff. However, Nordia soon also demanded independence, which it achieved.
 
 After the election of Tramountanas as Prime Minister (see below), RainyLyric14977 fled the empire and founded the "[Republic of Nova Glacier Bay](the-republic-of-nova-glacier-bay.md)", with the apparent aim of undermining the government of Thalizar.
 
