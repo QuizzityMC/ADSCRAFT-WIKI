@@ -25,4 +25,4 @@ Season 9 has been the longest season so far in ADSCRAFT, lasting from Early Octo
 
 If you're looking for what happened from Season 9 - 11, look in detail at the countries pages. These have plenty of detail on the events.
 
-{% embed url="https://www.youtube.com/watch?v=zbs2q2vEAAc" %}
+{% embed url="https://www.youtube.com/watch?t=203s&v=F83s-eiDHeU" %}
