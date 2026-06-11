@@ -6,10 +6,10 @@ coverY: 0
 
 # 👑 Countries
 
+IN ORDER OF CREATION
 
-* IN ORDER OF CREATION
-* [The Thalizar Empire ](the-thalizar-empire.md)
-* The Red Skull Sultanate&#x20;
+* [The Thalizar Empire](the-thalizar-empire.md)
+* The Red Skull Sultanate
 * ~~The Order of the Feather~~
 * ~~The Commies~~
 * ~~The Pepsi Kingdom~~
