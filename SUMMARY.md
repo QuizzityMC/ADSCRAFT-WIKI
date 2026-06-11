@@ -11,6 +11,7 @@
   * [The Religeon of Panditu (Pandituism)](religions/the-religeon-of-panditu-pandituism.md)
   * [The Holy Church of Coronia](religions/the-holy-church-of-coronia.md)
 * [The Seasons!](the-seasons/README.md)
+  * [Season 1](the-seasons/season-1.md)
   * [Seasons 2 and 3](the-seasons/seasons-2-and-3.md)
   * [Season 4](the-seasons/season-4.md)
   * [Season 5](the-seasons/season-5.md)
