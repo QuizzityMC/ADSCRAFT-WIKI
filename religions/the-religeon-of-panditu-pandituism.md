@@ -1,12 +1,10 @@
-# The Religeon of Panditu (Pandituism)
+# The Religion of Panditu (Pandituism)
 
 Pandituism, or the religeon of Panditu, is the religeon that follows the god Panditu, the god of Harmony and balance. He is a blue spotty & stripy Panda, but is also the world... So, he makes it up. The Blue Spots represent bodies of water, the blue stripes represent the areas where humans live. The white spots represent the Cities and towns, whereas the white stripes represent fields and agricultural land.
 
-<br>
-
 {% embed url="https://www.youtube.com/watch?t=4s&v=SzzLKtzvtww" %}
 
-The Book of Rana is our holy book. Here is a taster of it, please go to one of our communication platforms to read the full version.
+The Book of Rana is our holy book. Here is a taster of it, please go to one of our communication platforms to read the full version. (Or dm @adscraft on discord)
 
 Chapter One: How Panditu came into the world.
 

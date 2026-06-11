@@ -7,13 +7,11 @@ coverY: 0
 
 # Welcome to the ADSCRAFT Wiki!
 
-The ADSCRAFT Minecraft server was a civilisations server with about 160 people on our original chat platform, guilded.&#x20;
+The ADSCRAFT Minecraft server was a civilisations server with about 160 people on our original chat platform, guilded.
 
 <mark style="background-color:red;">It was founded in October 2022 and ran until March 2025.</mark> It is no longer available to the public. It experienced a rapid decline in popularity throughout the beginning of 2025, owing perhaps at least in part due to the disinterest of key figures such as QuizzityMC, Tramountanas and Alastor\_MC (RainyLyric14977).
 
-However, we now have our own platform, Canary Chat, available at [https://canarychat.me.](https://canarychat.me) There are numerous countries in ADSCRAFT Civilisations, which can be seen at [countries](countries/ "mention"). There have been eleven seasons to date, with a rich history of almost two years worth of dramatic and exciting stories. Many people have become so invested in the world that they have created entire websites and real life organisations as a result.
-
-
+~~However, we now have our own platform, Canary Chat, available at~~ [~~https://canarychat.me.~~](https://canarychat.me) There are numerous countries in ADSCRAFT Civilisations, which can be seen at [countries](countries/ "mention"). There have been eleven seasons to date, with a rich history of almost two years worth of dramatic and exciting stories. Many people have become so invested in the world that they have created entire websites and real life organisations as a result.
 
 ### [_Countries_:](countries/)
 
@@ -25,15 +23,11 @@ However, we now have our own platform, Canary Chat, available at [https://canary
 
 [The Republic of Nova Glacier Bay](countries/the-republic-of-nova-glacier-bay.md)
 
-
-
 ### [Religions](religions/)
 
 [The Religion of Panditu / Pandituism](religions/the-religeon-of-panditu-pandituism.md)
 
 [The Holy church of Coronia](religions/the-holy-church-of-coronia.md)
-
-
 
 ### [How to Join](how-to-join.md)
 

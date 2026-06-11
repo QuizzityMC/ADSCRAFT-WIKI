@@ -8,7 +8,7 @@
   * [The Nordian Shogunate](countries/the-nordian-shogunate.md)
   * [The Empire of Jiyustan](countries/the-empire-of-jiyustan.md)
 * [Religions](religions/README.md)
-  * [The Religeon of Panditu (Pandituism)](religions/the-religeon-of-panditu-pandituism.md)
+  * [The Religion of Panditu (Pandituism)](religions/the-religeon-of-panditu-pandituism.md)
   * [The Holy Church of Coronia](religions/the-holy-church-of-coronia.md)
 * [The Seasons!](the-seasons/README.md)
   * [Season 1](the-seasons/season-1.md)
